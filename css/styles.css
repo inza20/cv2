@@ -1,0 +1,30 @@
+body{background-color: #C3EDEA;}
+
+h1{ color: #4A47A3; }
+h2{ color: #035AA6; }
+h3{ color: #035AA6; }
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #1B6CA8;
+  border-width:  5px;
+  width: 5%;
+
+}
+
+a:link {
+  color: #035AA6;
+}
+
+/* Class Secectors */
+
+.emo  {
+  background-color: #035AA6 ;
+  padding: 3%;
+  margin: 3%;
+}
+
+.circular{
+  border-radius: 100%;
+}
